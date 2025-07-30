@@ -8,15 +8,10 @@ This is a tool for semantic occupancy prediction groundtruth generation. The use
 
 #### -- input data
 
-<video id="video" controls=""">
-    <source id="mp4" src="./assets/data.mp4" Input data. type="video/mp4">
-</video>
+![input_data](./assets/data.gif)
 
 ## -- global occupancy gt
-https://github.com/user-attachments/assets/922d7455-a736-429e-b7b7-c6dfcd5e3f28
-<video id="video" controls=""">
-    <source id="mp4" src="./assets/global_occ.mp4" Global occupancy gt. type="video/mp4">
-</video>
+![input_data](./assets/global_occ.gif)
 
 ## -- vis local occupancy 
 
